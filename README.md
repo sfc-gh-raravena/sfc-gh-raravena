@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @sfc-gh-raravena ✨
+- 💻 Currently working on the Supercluster 💪
 - 👀 I’m interested in open source, Kubernetes, AI/ML
 - 🌱 I’m currently learning MCP
 - 💞️ I’m looking to collaborate on anything open source
