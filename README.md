@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sfc-gh-raravena ✨
 - 💻 Currently working on the Supercluster 💪
 - 👀 I’m interested in open source, Kubernetes, AI/ML
-- 🌱 I’m currently learning MCP
+- 🌱 I’m currently learning using Cursor
 - 💞️ I’m looking to collaborate on anything open source
 - 📫 How to reach me: ricardo.aravena@snowflake.com
 - 😄 Pronouns: He/Him
