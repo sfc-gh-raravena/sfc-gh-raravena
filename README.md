@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @sfc-gh-raravena ✨
-- 💻 Currently working on the Supercluster 💪
+- 💻 Currently working on the K8s Supercluster 💪
 - 👀 I’m interested in open source, Kubernetes, AI/ML
 - 🌱 I’m currently using Cursor and GenAI to code
 - 💞️ I’m looking to collaborate on anything open source
-- 📫 How to reach me: ricardo.aravena@snowflake.com
+- 📫 How to reach me: ricardo.aravena@snowflake.com, raravena80@gmail.com
 - 😄 Pronouns: He/Him
 - :octocat: Other one: https://github.com/raravena80
 <!---
